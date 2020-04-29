@@ -4,4 +4,4 @@
 - [5.替换空格](https://github.com/starflyyy3119/Interview/blob/master/剑指offer/题目/替换空格.md)
 - [6.从尾到头打印链表](https://github.com/starflyyy3119/Interview/blob/master/剑指offer/题目/从尾到头打印链表.md)
 - [7.重建二叉树](https://github.com/starflyyy3119/Interview/blob/master/剑指offer/题目/重建二叉树.md)
-
+- [8.二叉树的下一个结点](https://github.com/starflyyy3119/Interview/blob/master/剑指offer/题目/二叉树的下一个结点.md)
