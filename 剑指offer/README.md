@@ -10,3 +10,4 @@
 - [11.旋转数组的最小数字](https://github.com/starflyyy3119/Interview/blob/master/剑指offer/题目/旋转数组的最小数字.md)
 - [12.矩阵中的路径](https://github.com/starflyyy3119/Interview/blob/master/剑指offer/题目/矩阵中的路径.md)
 - [13.机器人的运动范围](https://github.com/starflyyy3119/Interview/blob/master/剑指offer/题目/机器人的运动范围.md)
+- [14.剪绳子](https://github.com/starflyyy3119/Interview/blob/master/剑指offer/题目/剪绳子.md)
